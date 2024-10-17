@@ -9,12 +9,12 @@
 - 🌱 **Currently Learning:** IoT Exploitation
 - 💬 **Ask Me About:** Pentesting, CTF Challenges, and Security Projects
 - 📫 **Reach Me On:** [LinkedIn](https://linkedin.com/in/mikivirus) | [Email](mailto:mumairs3636@gmail.com)
-- ⚡ **Fun Fact:** I love playing CTFs and diving deep into security puzzles! XDXD
+- ⚡ **Fun Fact:** Sometimes i play CTF's too. @airoverflow
 
 ---
 
 ## 🛠️ Tools & Technologies
-![Tools](https://skillicons.dev/icons?i=linux,docker,aws,bash,python,js)
+![Tools](https://skillicons.dev/icons?i=linux,docker,aws,bash,python,js,html,css,git,go,c,cpp,rust,redis,postgres,mysql,nginx,vscode)
 
 ---
 
